@@ -1,0 +1,5 @@
+git stash
+git switch main
+git switch new-feature
+git stash pop
+i got this experiment
